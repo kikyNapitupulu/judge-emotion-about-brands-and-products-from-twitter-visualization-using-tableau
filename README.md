@@ -10,3 +10,5 @@ Proyek ini akan menghasilkan dashboard yang terdiri dari 4 panel dan dapat diaks
 Panel 1 : Merek dan Produk yang di-Tweet di Twitter (https://public.tableau.com/profile/jessycha.royanti.tampubolon#!/vizhome/proyek/BrandsandProductsTweetedonTwitter?publish=yes)
 
 Panel 2 : Respon untuk Merek dan Produk yang di-Tweet di Twitter (https://public.tableau.com/profile/kiky.purnamasari.napitupulu#!/vizhome/Q2-Project/WhatbrandsandproductsgetthemostpositiveandnegativeresponsesfromTwitterUsers?publish=yes)
+
+Panel 3 : 3 Merek dan Produk Teratas yang di-Tweet di Twitter (https://public.tableau.com/profile/kiky.purnamasari.napitupulu#!/vizhome/Q2-Project/Whatarethetop3brandsandproductstweetedontwitter?publish=yes)
