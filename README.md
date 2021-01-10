@@ -15,5 +15,5 @@ Panel 3 : 3 Merek dan Produk Teratas yang di-Tweet di Twitter (https://public.ta
 
 Panel 4 : Total Tweet di Setiap Merek dan Produk (https://public.tableau.com/profile/tripheni.simanjuntak#!/vizhome/proyek-04_AlSAM/howmanytweetsarethereoneachbrandandproductthataretweetedontwitter?publish=yes)
 
-Untuk menggabungkan 4 panel visualisasi yang telah dibuat agar lebih mudah dalam mempresentasikannya, maka dibuat sebuah dashboard yang dapat dilihat pada link berikut.
+Untuk menggabungkan 4 panel visualisasi yang telah dibuat agar lebih mudah dalam mempresentasikannya, maka dibuat sebuah dashboard yang dapat dilihat pada link berikut
 https://public.tableau.com/profile/jessycha.royanti.tampubolon#!/vizhome/proyek/JudgeEmotionAboutBrandsandProductsfromTwitter?publish=yes
