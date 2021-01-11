@@ -17,3 +17,5 @@ Panel 4 : Total Tweet di Setiap Merek dan Produk (https://public.tableau.com/pro
 
 Untuk menggabungkan 4 panel visualisasi yang telah dibuat agar lebih mudah dalam mempresentasikannya, maka dibuat sebuah dashboard yang dapat dilihat pada link berikut
 https://public.tableau.com/profile/jessycha.royanti.tampubolon#!/vizhome/proyek/JudgeEmotionAboutBrandsandProductsfromTwitter?publish=yes
+
+Video presentasi dapat diakses pada link berikut : https://www.youtube.com/watch?v=U3PegO3MlEc&feature=youtu.be
